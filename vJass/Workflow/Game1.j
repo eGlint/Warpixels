@@ -16,7 +16,8 @@ library MyGame uses Game
         endmethod
 
         method draw takes nothing returns nothing
-            call Bitmap_setColor(RGB.cornflowerBlue)
+            call Bitmap_setColor(RGB.cornFlowerBlue)
+            call PixelText_reset()
             call PixelText_print("Hello World!")
         endmethod
     endstruct

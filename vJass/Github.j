@@ -9,6 +9,10 @@
 //! import "<Directory>/System/PixelText.j"
 //! import "<Directory>/System/PixelWindow.j"
 
+//! import "<Directory>/JFormat/JSprite.j"
+//! import "<Directory>/JFormat/JVideo.j"
+//! import "<Directory>/JFormat/JWave.j"
+
 //! import "<Directory>/Workflow/Game1.j"
 
 //! import "<Directory>/Workflow/JSprites/Font.jsprite"
